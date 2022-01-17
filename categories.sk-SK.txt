@@ -1,0 +1,22 @@
+# Custom categories 
+1 - Auto-Moto
+2 - Bulvár
+3 - Dom, záhrada, bývanie, reality
+4 - Cestovanie
+5 - Ekonomika, biznis, financie, právo
+6 - Hry, gaming
+7 - IT, mobilné a digitálne technológie
+8 - Kultúra, TV, rádiá, film, hudba
+9 - Marketing, médiá
+10 - Mladí - Millenials, Tínedžeri
+11 - Mužské magazíny
+12 - Práca a zamestnanie
+13 - Regionálne spravodajstvo
+14 - Spoločenské a iné magazíny
+15 - Spravodajské médiá
+16 - Škola a vzdelávanie
+17 - Šport
+18 - Tehotenstvo a rodičovstvo, rodina
+19 - Varenie, jedlo, nápoje, recepty
+20 - Zdravie a Fitness
+21 - Ženské magazíny, móda
