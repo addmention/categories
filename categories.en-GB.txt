@@ -1,0 +1,23 @@
+
+# Custom categories 
+1 - Automotive
+2 - Tabloid
+3 - Home, garden, real estate
+4 - Travel
+5 - Business, finance, law
+6 - Gaming
+7 - Technology and computing
+8 - Culture, entertainment
+9 - Marketing, media
+10 - Millenials, teenagers
+11 - Men´s magazines
+12 - Jobs and careers
+13 - Regional news
+14 - Society and other magazines
+15 - News
+16 - Education
+17 - Sports
+18 - Family, parenting, pregnancy
+19 - Cooking, food, drink
+20 - Health and fitness
+21 - Women, style, fashion
